@@ -1,7 +1,7 @@
 <image width="100%" src="https://github.com/qw-0p/qw-0p/blob/main/assets/pictures/80s-car-top.gif" />
 <br />
 <h3 align="center"><samp>Hi there </samp><image width="30" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> Good to see you on my Github!</h3> 
-<h4><samp>I am Full Stack Web Engineer </samp></h4> 
+<h4 align="center"><samp>I am Full Stack Web Engineer </samp></h4> 
 <br/>
 <div align="center"> 
 <a href="mailto:sarkisov.dev@gmail.com"><image src="https://skillicons.dev/icons?i=gmail"/></a>
