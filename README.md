@@ -1,4 +1,3 @@
-<image width="100%" src="https://github.com/qw-0p/qw-0p/blob/main/assets/pictures/80s-car-top.gif" />
 <br />
 <h3 align="center"><samp>Hi there </samp><image width="30" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> Good to see you on my Github!</h3> 
 <h4 align="center"><samp>I am Full Stack Web Engineer </samp></h4> 
@@ -15,7 +14,6 @@
 <p><samp>And I like programming 💻</samp></p>
 </div>
 <p><samp>Working on 🔭: <a href="https://github.com/qw-0p/software-store">Software Store</a></samp></p>
-<image  src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"/>
 
 <div align="center">
   <br/>
@@ -41,4 +39,3 @@
 </div>
 <br />
 <br />
-<image width="100%" src="https://github.com/qw-0p/qw-0p/blob/main/assets/pictures/80s-car-bottom.gif" />
