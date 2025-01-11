@@ -25,7 +25,6 @@
     ]
  },
   "contacts": {
-    "github": "https://github.com/qw-0p",
     "linkedin": "https://www.linkedin.com/in/oleksandr-sarkisov-b3928117b/",
     "telegram": "https://t.me/quopiks",
     "x": "https://x.com/sarkisov_dev",
