@@ -1,8 +1,4 @@
-<div align="center">
-  
-## 👾 About me
 
-</div>
 
 ```json
 {
@@ -32,12 +28,15 @@
   }
 }
 ```
+
+<br />
 <div align="center">
 
-## 💡 A quoute 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 🏆 My stats
-[![qw-0p's GitHub stats](https://github-readme-stats.vercel.app/api?username=qw-0p)](https://github.com/qw-0p/github-readme-stats)
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qw-0p&card_width=400&theme=blueberry" />
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qw-0p&layout=compact&langs_count=8&card_width=400&theme=blueberry" />
+
+
 
 </div>
