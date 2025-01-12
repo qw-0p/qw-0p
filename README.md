@@ -29,9 +29,16 @@
 }
 ```
 
-<br />
-<div align="center">
 
+
+<div align="center">
+<h2>🔭 Working on: </h2> 
+
+<a href="https://github.com/qw-0p/software-store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qw-0p&repo=software-store&theme=blueberry" />
+</a>
+
+<h2></h2>
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qw-0p&card_width=320&theme=blueberry" />
 
@@ -41,8 +48,6 @@
 
 
 
-<a href="https://github.com/qw-0p/software-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qw-0p&repo=software-store" />
-</a>
+
 
 </div>
