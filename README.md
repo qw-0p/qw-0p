@@ -6,7 +6,6 @@
     "name": "Oleksandr Sarkisov",
     "role": "Full Stack Web Engineer",
     "current_location": "Kyiv, Ukraine 🇺🇦",
-    "currently_working_on": "Software Store <https://github.com/qw-0p/software-store> 🚀",
     "technologies": [
       "JavaScript", "TypeScript",
       "React", "Vue 2-3",
