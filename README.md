@@ -32,6 +32,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qw-0p&repo=software-store&theme=blueberry" />
 </a>
 <h2>📊 Statistic</h2>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qw-0p&card_width=320&theme=blueberry" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qw-0p&layout=compact&langs_count=8&card_width=320&theme=blueberry" />
+<!--   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qw-0p&card_width=320&theme=blueberry" /> -->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qw-0p&layout=compact&langs_count=8&card_width=640&theme=blueberry" />
 </div>
