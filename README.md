@@ -9,10 +9,10 @@
     "technologies": [
       "JavaScript", "TypeScript",
       "React", "Vue 2-3",
-      "Next.js", "NuxtJs",
+      "Next.js", "Nuxt",
       "SASS", "TailwindCSS",
       "Node.JS", "Express",
-      "Nest.js", "GraphQL",
+      "NestJS", "GraphQL",
       "PostgreSQL", "MongoDB",
       "Docker", "Kubernetes",
       "Git", "Jira", "Confluence"
