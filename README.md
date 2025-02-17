@@ -19,7 +19,7 @@
     ]
  },
   "contacts": {
-    "linkedin": "https://www.linkedin.com/in/oleksandr-sarkisov-b3928117b/",
+    "linkedin": "https://www.linkedin.com/in/oleksandr-sarkisov",
     "telegram": "https://t.me/quopiks",
     "x": "https://x.com/sarkisov_dev",
     "email": "sarkisov.dev.@gmail.com"
