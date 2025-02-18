@@ -4,7 +4,7 @@
   "user_info": {
     "name": "Oleksandr Sarkisov",
     "role": "Full Stack Web Engineer",
-    "current_location": "Kyiv, Ukraine 🇺🇦",
+    "current_location": "Kyiv, Ukraine",
     "technologies": [
       "JavaScript", "TypeScript",
       "React", "Vue 2-3",
