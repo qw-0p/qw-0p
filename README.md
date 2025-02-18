@@ -1,4 +1,3 @@
-
 ```json
 {
   "greetings": "Hi there 👋 Good to see you on my Github!",
