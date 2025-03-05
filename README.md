@@ -22,6 +22,7 @@
     "telegram": "https://t.me/quopiks",
     "x": "https://x.com/sarkisov_dev",
     "email": "sarkisov.dev.@gmail.com"
+    "upwork": "https://www.upwork.com/freelancers/~0111f3179ff6f69c76"
   }
 }
 ```
